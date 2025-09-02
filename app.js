@@ -1,3 +1,1 @@
-console.log("hello");
-let add = (a, b) => a + b;
-console.log(add(10, 20));
+<h1>Hello, github. </h1>
